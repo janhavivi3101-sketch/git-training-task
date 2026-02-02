@@ -1,2 +1,7 @@
 Company Name: ABC Ltd
+<<<<<<< HEAD
 Location: Mumbai
+=======
+Location: Pune
+About: We provide IT training and placements
+>>>>>>> feature-about
